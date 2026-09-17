@@ -1,6 +1,7 @@
 # zero-to-hero
 
-从零开始，用 PyTorch 手写实现一个小型 GPT 语言模型并训练。项目参考 Andrej Karpathy 的 zero-to-hero 系列，全部代码在 [video.ipynb](video.ipynb) 中。
+从零开始，用 PyTorch 手写实现一个小型 GPT 语言模型并训练。项目参考b站up袁朝发的 zero-to-hero（https://www.bilibili.com/video/BV1qWwke5E3K/?spm_id_from=333.337.search-card.all.click&vd_source=128fa86eb35916ad78ee352a9245cce7）
+全部代码在 [video.ipynb](video.ipynb) 中。
 
 ## 模型结构
 
